@@ -10,76 +10,116 @@
 
 | 과목 | 폴더 | 상태 |
 |------|------|------|
-| 📡 신호 및 시스템 | `signals-and-systems/` | 🔄 진행 중 |
-| 📶 통신 시스템 | `communication-systems/` | 🔄 진행 중 |
-| ⚡ 전자회로 | `electronic-circuits/` | 🔄 진행 중 |
-| 🎛️ 제어공학 | `control-engineering/` | 🔄 진행 중 |
-| ∫ 미분적분학 2 | `calculus-2/` | 🔄 진행 중 |
+| [📡 신호 및 시스템](#1-신호-및-시스템) | `signals-and-systems/` | 🔄 진행 중 |
+| [📶 통신 시스템](#2-통신-시스템) | `communication-systems/` | 🔄 진행 중 |
+| [⚡ 전자회로](#3-전자회로) | `electronic-circuits/` | 🔄 진행 중 |
+| [🎛️ 제어공학](#4-제어공학) | `control-engineering/` | 🔄 진행 중 |
+| [∫ 미분적분학 2](#5-미분적분학-2) | `calculus-2/` | 🔄 진행 중 |
 
 ---
 
-## 📡 신호 및 시스템
-- 연속시간 / 이산시간 신호
-- 푸리에 급수 & 푸리에 변환
-- 라플라스 변환
-- Z 변환
-- LTI 시스템 & 컨볼루션
+## 1. 📡 신호 및 시스템
+
+### 📖 이론 정리
+- [OT]
+- [2주차](signals-and-systems/신호및시스템_2주차.md)
+- [3주차](signals-and-systems/신호및시스템_3주차.md)
+- [4주차](signals-and-systems/신호및시스템_4주차.md)
+- [5주차](signals-and-systems/신호및시스템_5주차.md)
+- [6주차](signals-and-systems/신호및시스템_6주차.md)
+- [7주차](signals-and-systems/신호및시스템_7주차.md)
+- [중간고사]
+- [9주차](signals-and-systems/신호및시스템_9주차.md)
+- [10주차](signals-and-systems/신호및시스템_10주차.md)
+- [11주차](signals-and-systems/신호및시스템_11주차.md)
+- [12주차](signals-and-systems/신호및시스템_12주차.md)
+- [13주차](signals-and-systems/신호및시스템_13주차.md)
+- [14주차](signals-and-systems/신호및시스템_14주차.md)
+- [기말고사]
 
 ---
 
-## 📶 통신 시스템
-- AM / FM 변조
-- 샘플링 정리
-- 디지털 변조 (ASK, FSK, PSK)
-- 잡음 및 SNR
-- 채널 용량 & Shannon 정리
+## 2. 📶 통신 시스템
+
+### 📖 이론 정리
+- [OT]
+- [2주차](communication-systems/통신시스템_2주차.md)
+- [3주차](communication-systems/통신시스템_3주차.md)
+- [4주차](communication-systems/통신시스템_4주차.md)
+- [5주차](communication-systems/통신시스템_5주차.md)
+- [6주차](communication-systems/통신시스템_6주차.md)
+- [7주차](communication-systems/통신시스템_7주차.md)
+- [중간고사]
+- [9주차](communication-systems/통신시스템_9주차.md)
+- [10주차](communication-systems/통신시스템_10주차.md)
+- [11주차](communication-systems/통신시스템_11주차.md)
+- [12주차](communication-systems/통신시스템_12주차.md)
+- [13주차](communication-systems/통신시스템_13주차.md)
+- [14주차](communication-systems/통신시스템_14주차.md)
+- [기말고사]
 
 ---
 
-## ⚡ 전자회로
-- 다이오드 & 트랜지스터 동작
-- BJT / MOSFET 소신호 모델
-- 증폭기 설계
-- 피드백 이론
-- 주파수 응답 & Bode Plot
+## 3. ⚡ 전자회로
+
+### 📖 이론 정리
+- [OT]
+- [2주차](electronic-circuits/전자회로_2주차.md)
+- [3주차](electronic-circuits/전자회로_3주차.md)
+- [4주차](electronic-circuits/전자회로_4주차.md)
+- [5주차](electronic-circuits/전자회로_5주차.md)
+- [6주차](electronic-circuits/전자회로_6주차.md)
+- [7주차](electronic-circuits/전자회로_7주차.md)
+- [중간고사]
+- [9주차](electronic-circuits/전자회로_9주차.md)
+- [10주차](electronic-circuits/전자회로_10주차.md)
+- [11주차](electronic-circuits/전자회로_11주차.md)
+- [12주차](electronic-circuits/전자회로_12주차.md)
+- [13주차](electronic-circuits/전자회로_13주차.md)
+- [14주차](electronic-circuits/전자회로_14주차.md)
+- [기말고사]
 
 ---
 
-## 🎛️ 제어공학
-- 전달함수 & 블록선도
-- 시간 응답 분석
-- 안정성 판별 (Routh, Nyquist)
-- 근궤적법 (Root Locus)
-- PID 제어기 설계
+## 4. 🎛️ 제어공학
+
+### 📖 이론 정리
+- [OT]
+- [2주차](control-engineering/제어공학_2주차.md)
+- [3주차](control-engineering/제어공학_3주차.md)
+- [4주차](control-engineering/제어공학_4주차.md)
+- [5주차](control-engineering/제어공학_5주차.md)
+- [6주차](control-engineering/제어공학_6주차.md)
+- [7주차](control-engineering/제어공학_7주차.md)
+- [중간고사]
+- [9주차](control-engineering/제어공학_9주차.md)
+- [10주차](control-engineering/제어공학_10주차.md)
+- [11주차](control-engineering/제어공학_11주차.md)
+- [12주차](control-engineering/제어공학_12주차.md)
+- [13주차](control-engineering/제어공학_13주차.md)
+- [14주차](control-engineering/제어공학_14주차.md)
+- [기말고사]
 
 ---
 
-## ∫ 미분적분학 2
-- 편미분 & 다변수 함수
-- 다중적분 (이중, 삼중)
-- 벡터 미적분 (발산, 회전)
-- 급수 & 테일러 전개
-- 미분방정식 기초
+## 5. ∫ 미분적분학 2
 
----
-
-## 🗂️ 폴더 구조
-```
-📁 repo/
-├── 📡 signals-and-systems/
-├── 📶 communication-systems/
-├── ⚡ electronic-circuits/
-├── 🎛️ control-engineering/
-├── ∫ calculus-2/
-└── 📄 README.md
-```
-
----
-
-## ✏️ 작성 규칙
-- 개념 → 수식 → 예제 순서로 정리
-- 자주 나오는 공식은 `💡 핵심 공식` 으로 표시
-- 시험 팁은 `⚠️ 주의` 로 표시
+### 📖 이론 정리
+- [OT]
+- [2주차](calculus-2/미분적분학2_2주차.md)
+- [3주차](calculus-2/미분적분학2_3주차.md)
+- [4주차](calculus-2/미분적분학2_4주차.md)
+- [5주차](calculus-2/미분적분학2_5주차.md)
+- [6주차](calculus-2/미분적분학2_6주차.md)
+- [7주차](calculus-2/미분적분학2_7주차.md)
+- [중간고사]
+- [9주차](calculus-2/미분적분학2_9주차.md)
+- [10주차](calculus-2/미분적분학2_10주차.md)
+- [11주차](calculus-2/미분적분학2_11주차.md)
+- [12주차](calculus-2/미분적분학2_12주차.md)
+- [13주차](calculus-2/미분적분학2_13주차.md)
+- [14주차](calculus-2/미분적분학2_14주차.md)
+- [기말고사]
 
 ---
 
