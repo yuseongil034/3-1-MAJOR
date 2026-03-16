@@ -22,7 +22,7 @@
 
 ### 📖 이론 정리
 - [OT]
-- [2주차](signals-and-systems/신호및시스템_2주차.md)
+- [2주차](신호및시스템_2주차.md)
 - [3주차](signals-and-systems/신호및시스템_3주차.md)
 - [4주차](signals-and-systems/신호및시스템_4주차.md)
 - [5주차](signals-and-systems/신호및시스템_5주차.md)
