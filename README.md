@@ -10,7 +10,7 @@
 
 | 과목 | 폴더 | 상태 |
 |------|------|------|
-| [📡 신호 및 시스템](#1-신호-및-시스템) | `signals-and-systems/` | 🔄 진행 중 |
+| [📡 신호 및 시스템](## 1. 📡 신호 및 시스템) | `signals-and-systems/` | 🔄 진행 중 |
 | [📶 통신 시스템](#2-통신-시스템) | `communication-systems/` | 🔄 진행 중 |
 | [⚡ 전자회로](#3-전자회로) | `electronic-circuits/` | 🔄 진행 중 |
 | [🎛️ 제어공학](#4-제어공학) | `control-engineering/` | 🔄 진행 중 |
